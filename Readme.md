@@ -115,5 +115,3 @@ git log --graph
 Muestra el historial de commits en formato gráfico.
 
 ---
-
-Espero que esta documentación sea útil. Si tienes más preguntas o necesitas más aclaraciones, no dudes en preguntar.
